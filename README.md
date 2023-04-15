@@ -8,6 +8,8 @@ This example shows how to use Git repository.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Learning Git.
 
 ## Deployment
+
+TODO
