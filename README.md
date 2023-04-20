@@ -12,6 +12,10 @@ Learning Git.
 
 ## Deployment
 
+## How To Contribute
+
+Please fork this repository
+
 ###Copyright
 
 2014 Git.Training
