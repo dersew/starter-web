@@ -12,4 +12,6 @@ Learning Git.
 
 ## Deployment
 
-TODO
+###Copyright
+
+2014 Git.Training
